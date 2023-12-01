@@ -1,3 +1,8 @@
+    //                                   A25 Random Numbers 
+    //                                   Logan Weisgerber
+    //                                      11/15/2023
+
+
 class App {
     public static void main(String[] args) {
       for(int i = 0; i <= 10; i++){
